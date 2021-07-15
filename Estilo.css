@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 20px 0px;
+    background-color: rgb(49, 48, 48);
+    text-align: center;
+    color: white;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(67, 70, 221);
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background-color: #ef8354;
+}
+h2{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 20px;
+    font-size: 30px;
+}
+.texto1{
+    text-align:center;
+    font-size: 20px;
+}
+.imagen{
+    text-align: left;
+    padding: 30px;
+}
+.texto2{
+    position: absolute;
+    text-align: left;
+    font-size: 19px;
+    left: 350px;
+    top: 35%
+}
+.variasimagenes{
+    background-color: rgb(49, 48, 48);
+}
+.imagen1{
+    text-align: left;
+}
+.texto3{
+    color: white;
+    position: absolute;
+    text-align: left;
+    font-size: 19px;
+    left: 650px;
+    top: 85%
+}
+.imagen2{
+    text-align: right;
+}
+.texto4{
+    color: white;
+    position: absolute;
+    text-align: right;
+    font-size: 19px;
+    right: 650px;
+    top: 120%
+}
+.texto5{
+    color: white;
+    text-align: left;
+    position: absolute;
+    font-size: 19px;
+    left: 650px;
+    top: 1600px; 
+}
+.aviso{
+    font-size: 17px;
+    margin: 10px;
+    position: absolute;
+    bottom: 1000px;
+}
+.redessociales{
+    font-size: 17px;
+    margin: 10px;
+    margin-top: 90px;
+    
+}
+.fb{
+    bottom: -1050px;
+    position: absolute;
+    left: 700px;
+}
+.insta{
+    bottom: -1050px;
+    position: absolute;
+    left: 900px;
+}
+.correo{
+    bottom: -1050px;
+    position:absolute;
+    left: 1100px;
+}
+
+
+
